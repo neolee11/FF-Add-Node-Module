@@ -1,0 +1,25 @@
+{
+  "name": "ff-add-node-module",
+  "version": "1.0.0",
+  "description": "Add numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neolee11/FF-Add-Node-Module.git"
+  },
+  "keywords": [
+    "Addition"
+  ],
+  "author": "Daniel Li <neolee11@yahoo.com> (http://koajs.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neolee11/FF-Add-Node-Module/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/neolee11/FF-Add-Node-Module#readme"
+}
