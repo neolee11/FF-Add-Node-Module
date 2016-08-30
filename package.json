@@ -21,5 +21,9 @@
   "engines": {
     "node": ">=4.2.4"
   },
-  "homepage": "https://github.com/neolee11/FF-Add-Node-Module#readme"
+  "homepage": "https://github.com/neolee11/FF-Add-Node-Module#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
 }
