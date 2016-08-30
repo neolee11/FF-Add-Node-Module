@@ -6,7 +6,7 @@
         return function(b){
             return a + b;
         }
-    }
+    };
 
     return util;
 })(module.exports);
