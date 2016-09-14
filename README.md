@@ -1,7 +1,7 @@
 Number Formatter
 =========
 
-A small library adds two numbers using Javascript Curry - local
+A small library adds two numbers using Javascript Curry - server
 
 ## Installation
 
