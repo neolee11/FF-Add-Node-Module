@@ -1,7 +1,7 @@
 Number Formatter
 =========
 
-A small library that adds two numbers using Javascript curry
+A small library that adds two numbers using Javascript Curry
 
 ## Installation
 
